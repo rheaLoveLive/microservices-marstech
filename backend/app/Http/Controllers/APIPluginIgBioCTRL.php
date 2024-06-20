@@ -9,6 +9,8 @@ use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Validator;
 use Illuminate\Validation\ValidationException;
 
+// NOTE : ini sebenarnya adalah controller milik plugin ig dan fb
+
 class APIPluginIgBioCTRL extends Controller
 {
     public function index()
