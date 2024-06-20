@@ -1,16 +1,16 @@
 # tabel addon
 
-- status
-  0 = tidak terinstall
-  1 = terinstall
-  2 = maintenance
+- status <br/>
+  0 = tidak terinstall <br/>
+  1 = terinstall<br/>
+  2 = maintenance<br/>
 
 # tabel transaksi
 
-- status_trans
-  0 = belum dibeli
-  1 = dalam proses pembayaran
-  2 = dibeli
+- status_trans<br/>
+  0 = belum dibeli<br/>
+  1 = dalam proses pembayaran<br/>
+  2 = dibeli<br/>
 
 # NOTE!!!
 
