@@ -16,7 +16,7 @@
 
  *pembuatan plugin nya harus memiliki struktur yang sama dengan base karena plugin itu sama dengan clone dari base namun dengan penambahan halaman pada direktori pages/pages/\**
 
-# untuk penambahan components,style,public harus di dalam folder dengan nama plugin tersebut misal :
+ *untuk penambahan components,style,public harus di dalam folder dengan nama plugin tersebut misal :*
 
 - components
   --- plugin_x
