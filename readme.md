@@ -18,20 +18,20 @@
 
  *untuk penambahan components,style,public harus di dalam folder dengan nama plugin tersebut misal :*
 
-- components
-  --- plugin_x
-  ----- component.js
-  ----- component2.js
+- components<br/>
+  --- plugin_x<br/>
+  ----- component.js<br/>
+  ----- component2.js<br/>
 
-- styles
-  --- plugin_x
-  ----- style.css
-  ----- style2.css
+- styles<br/>
+  --- plugin_x<br/>
+  ----- style.css<br/>
+  ----- style2.css<br/>
 
-- public
-  --- plugin_x
-  ----- images
-  ------- blabla.jpg
-  ------- blabla2.jpg
+- public<br/>
+  --- plugin_x<br/>
+  ----- images<br/>
+  ------- blabla.jpg<br/>
+  ------- blabla2.jpg<br/>
 
 *untuk install dan uninstal itu merupakan internal api anda bisa menemukanya di dalam folder api pada pages di base*
