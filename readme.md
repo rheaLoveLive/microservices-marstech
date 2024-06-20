@@ -34,4 +34,4 @@
   ------- blabla.jpg
   ------- blabla2.jpg
 
-# untuk install dan uninstal itu merupakan internal api anda bisa menemukanya di dalam folder api pada pages di base 
+*untuk install dan uninstal itu merupakan internal api anda bisa menemukanya di dalam folder api pada pages di base*
