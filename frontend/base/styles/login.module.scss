@@ -1,0 +1,50 @@
+.container {
+  box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.136);
+  -webkit-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.136);
+  -moz-box-shadow: 0px 1px 5px 0px rgba(0, 0, 0, 0.136);
+}
+
+.signin {
+  h3 {
+    text-shadow: 2px 2px 2px #c2c2c2;
+  }
+
+  .input_wrap {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border-bottom: 1px solid black;
+    width: 70%;
+
+    i {
+      padding-left: 10px;
+      padding-top: 10px;
+      cursor: pointer;
+    }
+
+    input {
+      outline: none;
+      background-color: transparent;
+      padding: 10px;
+      width: 100%;
+    }
+  }
+
+}
+
+.right {
+  box-shadow: -1px 0 5px 0px rgba(0, 0, 0, 0.236);
+  -webkit-box-shadow: -1px 0 5px 0px rgba(0, 0, 0, 0.236);
+  -moz-box-shadow: -1px 0 5px 0px rgba(0, 0, 0, 0.236);
+
+  .content {
+    h3 {
+      text-shadow: 2px 2px 2px #c2c2c2;
+    }
+  }
+
+  p {
+    text-shadow: 1px 1px 1px #a3a3a3;
+  }
+}

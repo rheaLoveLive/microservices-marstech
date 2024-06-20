@@ -1,0 +1,4 @@
+{
+  "files.autoSave": "afterDelay",
+  "eslint.workingDirectories": [{ "mode": "auto" }]
+}

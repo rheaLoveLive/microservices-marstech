@@ -1,0 +1,291 @@
+/* Custom CSS */
+
+.login-page {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background-image: url("../img/cafe-bar-hotel-loft-style.jpg");
+    background-color: rgba(255, 255, 255, 0.8);
+}
+
+.card-body .link1:hover {
+    text-decoration: underline;
+}
+
+.card-header a {
+    padding-right: 10px;
+}
+
+.thumbnail-small {
+    /* position: absolute; */
+    margin-left: 0px;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    -o-object-fit: cover;
+    object-position: center;
+    -o-object-position: center;
+}
+
+.thumbnail-menu {
+    position: relative;
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    -o-object-fit: cover;
+    object-position: center;
+    -o-object-position: center;
+}
+
+.thumbnail-user {
+    position: relative;
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    -o-object-fit: cover;
+    object-position: center;
+    -o-object-position: center;
+}
+
+.user-avatar {
+    position: relative;
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    object-fit: cover;
+    -o-object-fit: cover;
+    object-position: center;
+    -o-object-position: center;
+    border-radius: 100%;
+    -webkit-border-radius: 100%;
+    border: 1px solid #ccc;
+}
+
+#price {
+    display: block;
+}
+
+/* Form Transaksi */
+/* #transaksi {
+    position: relative;
+}
+
+#transaksi #menu .card {
+    height: 97vh;
+    box-shadow: unset;
+}
+
+#transaksi #menu .card .card-body {
+    background-color: #e9ded2;
+    padding: 10px;
+    height: 100vh;
+    overflow-y: auto;
+}
+
+#transaksi #menu .menu-item {
+    padding: 5px;
+}
+
+#transaksi #menu .menu-item img {
+    position: relative;
+    width: 100%;
+    height: 160px;
+    object-fit: cover;
+    -o-object-fit: cover;
+    object-position: center;
+    -o-object-position: center;
+}
+
+#transaksi #menu .menu-item .detail-menu-item {
+    position: absolute;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+    padding: 10px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-bottom: 2px solid #34abcf;
+}
+
+#transaksi #menu .menu-item .detail-menu-item h5 {
+    color: #000000;
+    font-size: 15px;
+    font-weight: 600;
+    margin: 0;
+}
+
+#transaksi #menu .menu-item .detail-menu-item p {
+    font-weight: 600;
+    margin: 0;
+}
+
+#transaksi #menu .card-footer {
+    padding: 5px;
+    text-align: right;
+}
+
+#transaksi #menu #category {
+    position: absolute;
+    width: 100%;
+    bottom: 0;
+    background-color: rgba(187, 207, 212, 0.5);
+} */
+
+/* Order Detail */
+/* #transaksi #detail {
+    position: relative;
+    padding-right: 0;
+}
+
+#transaksi #detail .card {
+    height: 97vh;
+}
+
+#transaksi #detail .list-group-item .DI {
+    position: absolute;
+    width: 96px;
+    height: 40px;
+}
+
+#transaksi #detail .detail-order > h5 {
+    background-color: red;
+    padding: 10px;
+}
+
+#transaksi #detail .detail-order .order-list {
+    height: 420px;
+    overflow-y: scroll;
+}
+
+#transaksi #detail .detail-order .order-list-item {
+    margin: 5px;
+    padding: 0 10px 10px 10px;
+}
+
+#transaksi #detail .detail-order .order-list-item button {
+    position: absolute;
+    bottom: 12px;
+    right: 80px;
+    display: none;
+}
+
+#transaksi #detail .detail-order .order-list-item:hover button {
+    display: block;
+}
+
+#transaksi #detail .detail-order .order-list-item h6 {
+    font-size: 16px;
+}
+
+#transaksi #detail .detail-order .order-list-item .qty_menu {
+    width: 20%;
+}
+
+#transaksi #detail .detail-order .order-list-item .input-group-text {
+    padding: 2px 5px;
+    font-size: 12px;
+    height: 25px;
+}
+
+#transaksi #detail .detail-order .order-list-item input {
+    padding: 3px 5px 5px 5px;
+    font-size: 14px;
+    height: 25px;
+    text-align: center;
+}
+
+#transaksi #detail .detail-order .order-list-item .price_menu {
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    font-size: 18px;
+    text-align: right;
+}
+
+#transaksi #detail .card-footer {
+    padding: 0;
+}
+
+#transaksi #detail .card-footer .row {
+    margin: 0;
+}
+
+#transaksi #detail .card-footer .list-group-item {
+    padding: 2px 15px;
+} */
+
+/* From Transaksi */
+/* #loader {
+    position: fixed;
+    background-color: rgba(255, 255, 255, 0.8);
+    display: none;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    z-index: 99;
+}
+
+#loader i {
+    font-size: 100px;
+    color: #000000;
+} */
+
+/* Teko Fadil */
+/* CSS Dine In & Take Away */
+/* .switch {
+    display: inline-block;
+    width: 100%;
+    color: #fff;
+} */
+
+/* Child .switch */
+/* .switch .slider {
+    position: relative;
+    font-size: 12px;
+    background-color: #292929;
+    border-radius: 4px;
+    padding: 4px 0;
+} */
+
+/* Child .slider */
+/* .switch .slider .s-1 {
+    padding-left: 15px;
+}
+
+.switch .slider .s-2 {
+    padding-right: 25px;
+}
+
+.slider::before {
+    content: "";
+    position: absolute;
+    top: 3px;
+    left: 5px;
+    border-color: rgba(255, 255, 255, 0.531);
+    width: 80px;
+    height: 20px;
+    border-radius: 4px;
+    transition: 0.4s;
+}
+
+.input:checked + .slider::before {
+    transform: translateX(85px);
+} */
+
+/* .chartjs-render-monitor {
+    animation: chartjs-render-animation 1ms;
+    animation-duration: 1ms;
+    animation-timing-function: ease;
+    animation-delay: 0s;
+    animation-iteration-count: 1;
+    animation-direction: normal;
+    animation-fill-mode: none;
+    animation-play-state: running;
+    animation-name: chartjs-render-animation;
+    animation-timeline: auto;
+    animation-range-start: normal;
+    animation-range-end: normal;
+} */
