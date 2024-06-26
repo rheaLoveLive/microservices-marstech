@@ -35,3 +35,7 @@
   ------- blabla2.jpg<br/>
 
 *untuk install dan uninstal itu merupakan internal api anda bisa menemukanya di dalam folder api pada pages di base*
+
+# REST API DOCS
+
+- https://documenter.getpostman.com/view/33702045/2sA3XY7yCs
